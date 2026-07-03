@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Department,Math,Science,English,Attendance,Study_Hours
+S101,Asha,Female,CSE,85,78,88,92,3
+S102,Ravi,Male,IT,72,69,75,85,2
+S103,Priya,Female,CSE,90,92,89,96,4
+S104,Karthik,Male,ECE,65,70,68,80,2
+S105,Divya,Female,IT,88,84,91,94,4
+S106,Arun,Male,CSE,76,73,79,87,3
+S107,Nisha,Female,ECE,91,89,93,97,5
+S108,Vijay,Male,IT,60,65,62,75,1
+S109,Meena,Female,CSE,82,80,85,90,3
+S110,Suresh,Male,ECE,74,78,72,84,2
+S111,Keerthana,Female,IT,95,94,96,98,5
+S112,Ajay,Male,CSE,68,72,70,82,2
+S113,Harini,Female,ECE,86,88,84,91,4
+S114,Manoj,Male,IT,79,75,77,86,3
+S115,Sneha,Female,CSE,92,90,94,97,5
